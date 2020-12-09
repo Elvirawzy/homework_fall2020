@@ -1,0 +1,20 @@
+MuJoCo Pro Trial license activation key, number 151252, type 6.
+
+Issued to Wang Ziyi <elvirawzy@163.com>.
+
+Expires November 22, 2020.
+
+This file activates MuJoCo Pro on a single computer with id:
+LINUX_PKG1OSmNJD91a_R201S5Bsg552uS0Y76NS2nS204
+
+Do not modify this file. Its entire content, including the
+plain text section, is used by the activation manager.
+
+24254ddf61dbf31e51af43b77f4992caaac7d1612b17386235d4d08fafb939ab
+876891c1cea203f9ccf7ac311b7271e6af24bf9d310a70100a5229fa4e9e0dbb
+5593b31f5e1405685951dd00833cf8f6cfb5452d504ef41e6c5ac1e82485d7c8
+a707087666b32865f705c89e2f233eaaed71b6c07fea8bd8ccb606af4be21c21
+b98998688afc97ce0c158a2a8cb921b8612307d7fc30793a67357b732747a393
+15ce8fbcd115633a52cbc90087de363562a24ffcd99380a7f87ecfefe7dffb82
+65e7125eef7408057a4a3032bd210257528941f2ed01a39ae0a0dfc9926de6cc
+4066117d4748c5e932ebd083ac4c3eedebb719f9a05def1fc2ac872f89b3857e
